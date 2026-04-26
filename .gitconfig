@@ -1,0 +1,7 @@
+[user]
+	name = Your Name
+	email = your_email@example.com
+	name = Ayesha
+[http]
+	postBuffer = 524288000
+	version = HTTP/1.1
